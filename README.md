@@ -37,3 +37,5 @@ While changes at the district level were insignificant, the impact of removing 9
 2. It is clear the the performance of Thomas High School relative to other schools drops significantly as the overall passing percentage drops by a lot. Prior to removing the 9th grade scores, Thomas High School was a top 3 performing school. However, after this this incident it clearly at the bottom of the list.
 3. Third, the medium bin will also see a signifit decrease in the passing percentage since Thomas High School was in that bin. 
 4. Finally, a significant drop in math and reading scores can be observed. Passing math dropped from 93.2% to 66.9%. Passing reading dropped from 97.3% to 69.6%
+
+In summary, the analysis conducted on the school district provides interesting insight into the performance of each school within the district. Events like the one in the present study present a unique opportuniy to understand how changes in school performances impact individual and district performance. With that being said, the results from this project presents the school board with valuable information into how situtations like academic dishonesty should be handled in the future. 
